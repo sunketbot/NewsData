@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "category": "politics",
+    "count": 3,
+    "last_updated": "2026-05-24T17:29:22+00:00",
+    "data": [
+        {
+            "id": "76443480ba443a7451b62b642598591f",
+            "url": "https://www.aajtak.in/sports/cricket/story/mi-vs-rr-live-cricket-score-ipl-2026-indian-premier-league-match-tspoa-dskc-2560504-2026-05-24",
+            "source": "Aaj Tak",
+            "title": "MI vs RR, IPL 2026 Highlights: राजस्थान रॉयल्स ने ली प्लेऑफ में एंट्री, मुंबई इंडियंस को 30 रनों से हराया, जोफ्रा आर्चर बने जीत के स्टार",
+            "description": "Mumbai Indians vs Rajasthan Royals, IPL: मुंबई के वानखेड़े स्टेडियम में मुंबई इंडियंस और राजस्थान रॉयल्स आमने-सामने हुईं. राजस्थान रॉयल्स ने इस मुकाबले को 30 रनों से अपने नाम किया और प्लेऑफ में जगह बनाई.",
+            "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202605/6a12f4403a16c-jofra-archer-245107245-16x9.jpg",
+            "published_date": "2026-05-24T13:54:08+05:30",
+            "modified_date": "2026-05-24T19:59:16+05:30",
+            "keywords": "mi vs rr, mi vs rr live score, mi vs rr live updates, mi vs rr today match, mi vs rr aaj ka match, mi vs rr ipl 2026, mumbai indians vs rajasthan royals, mi vs rr scorecard, mi vs rr live match, mi vs rr highlights, ipl live score mi vs rr, vaibhav sooryavanshi",
+            "category": "politics"
+        },
+        {
+            "id": "20cd29f73a3b2267e0be8edbde1bebb3",
+            "url": "https://www.aajtak.in/west-bengal/story/west-bengal-falta-re-poll-counting-live-updates-bjp-tmc-shubhendu-adhikari-jahangir-khan-mamata-banerjee-ntc-ntyv-2560307-2026-05-24",
+            "source": "Aaj Tak",
+            "title": "Falta Election Results 2026:  फलता में बीजेपी की बंपर की जीत, BJP कैंडिडेट 109,021 वोटों से जीते ",
+            "description": "Falta Re-poll Counting Live: बंगाल के फलता में हुई री-पोलिंग की मतगणना पूरी हो गई ङै. मतगणना के 22 दौर पूरे होने के बाद, BJP उम्मीदवार देग्बांशु पांडा 109,021 वोटों से जीते. उन्हें कुल 149,666 वोट मिले हैं.\r\n",
+            "image": "https://akm-img-a-in.tosshub.com/aajtak/images/breaking_news/202605/6a12e9bc5b033-falta-assembly-seat-counting--debangshu-panda-win-240615211-16x9.jpg",
+            "published_date": "2026-05-24T07:27:24+05:30",
+            "modified_date": "2026-05-24T18:48:46+05:30",
+            "keywords": "Falta Re-poll Counting Live Updates, Falta News, Falta counting, फलता पुनर्मतदान, जहांगीर खान, ममता बनर्जी, अभिषेक बनर्जी",
+            "category": "politics"
+        },
+        {
+            "id": "487482d5c2ee2761784478f202b87f93",
+            "url": "https://www.aajtak.in/opinion-analysis-/story/bihar-encounter-caste-politics-tejaswi-yadav-samrat-chaudhary-ntcpmr-dskc-2558813-2026-05-22",
+            "source": "Aaj Tak",
+            "title": "एनकाउंटर और अपराध पर कास्ट पॉलिटिक्स - सम्राट चौधरी और तेजस्वी यादव आमने-सामने",
+            "description": "बिहार में जातीय राजनीति का नया नमूना देखने को मिला है. अपराधियों के पुलिस एनकाउंटर को लेकर मुख्यमंत्री सम्राट चौधरी और विधानसभा में विपक्ष के नेता तेजस्वी यादव आमने सामने आ गए हैं. तेजस्वी यादव के अपराधियों की जाति देखकर एनकाउंटर किए जाने के सवाल पर सम्राट चौधरी ने भी उसी अंदाज में जवाब दिया है.",
+            "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202605/6a100e1bb6c35-bihar-cm-samrat-chaudhary-and-rjd-leader-tejashwi-yadav-220437884-16x9.jpg",
+            "published_date": "2026-05-22T17:59:52+05:30",
+            "modified_date": "2026-05-22T17:59:52+05:30",
+            "keywords": "Samrat Chaudhary, Tejashwi Yadav, Bihar police encounter, caste politics, crime, police, NDA, Mahagathbandhan, nitish kumar, yogi adityanath, बिहार, पुलिस एनकाउंटर, जातीय राजनीति, तेजस्वी यादव, सम्राट चौधरी",
+            "category": "politics"
+        }
+    ]
+}

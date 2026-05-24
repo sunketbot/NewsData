@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "last_updated": "2026-05-24T17:29:22+00:00",
+    "categories": [
+        "latest",
+        "politics",
+        "tech",
+        "business",
+        "stock",
+        "food",
+        "sports",
+        "entertainment",
+        "world"
+    ],
+    "endpoints": [
+        {
+            "category": "latest",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/latest.json"
+        },
+        {
+            "category": "politics",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/politics.json"
+        },
+        {
+            "category": "tech",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/tech.json"
+        },
+        {
+            "category": "business",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/business.json"
+        },
+        {
+            "category": "stock",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/stock.json"
+        },
+        {
+            "category": "food",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/food.json"
+        },
+        {
+            "category": "sports",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/sports.json"
+        },
+        {
+            "category": "entertainment",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/entertainment.json"
+        },
+        {
+            "category": "world",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/world.json"
+        },
+        {
+            "category": "search (all news)",
+            "url": "https://raw.githubusercontent.com/sunketbot/NewsData/main/search.json"
+        }
+    ]
+}
